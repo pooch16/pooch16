@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @pooch16
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Pooja A
+- 👀 I’m interested in analysis
+- 🌱 I’m currently learning python , machine learning and data analytics
+- 📫 You can reach me through poojaashokkumar1606@gmail.com
 
 <!---
 pooch16/pooch16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
